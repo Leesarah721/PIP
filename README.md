@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PIP | COMPUTER VISION Project
 개인정보 보호 스트리밍 앱
 
