@@ -1,6 +1,10 @@
+<div align="center">
 
-# PIP | COMPUTER VISION Project
-개인정보 보호 스트리밍 앱
+# PIP 
+## COMPUTER VISION Project
+### 개인정보 보호 스트리밍 앱
+
+</div>
 
 ![기획서_ing](https://github.com/user-attachments/assets/2201b59f-7328-4293-a2b3-ed5350e87914)
 ![개인정보 보호 방송 PIP_2](https://github.com/user-attachments/assets/3d5eff39-299c-4026-a5ad-589920e0a0bd)
