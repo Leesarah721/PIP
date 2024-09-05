@@ -1,8 +1,8 @@
 <div align="center">
 
-# PIP 
+# PIP ##### 개인정보 보호 스트리밍 앱
 #### COMPUTER VISION Project
-##### 개인정보 보호 스트리밍 앱
+
 
 </div>
 
