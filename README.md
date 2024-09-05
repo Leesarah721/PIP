@@ -1,4 +1,4 @@
-# PIP
+# PIP | COMPUTER VISION Project
 개인정보 보호 스트리밍 앱
 
 ![기획서_ing](https://github.com/user-attachments/assets/2201b59f-7328-4293-a2b3-ed5350e87914)
